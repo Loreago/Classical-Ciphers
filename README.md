@@ -4,6 +4,7 @@ This repository consists of several programs that encrypt and decrypt ciphers. S
 # Ciphers implemented
 - Atbash cipher: The atbash cipher is a cipher that encrypts text by using an alphabet that has all its letters reversed.
 - Caesar cipher: The Caesar cipher shifts the entire alphabet by a certain number (The Caesar shfit number).
+- Affine cipher: The Affine cipher encrypts text with respect to two keys i.e. a and b, modulo the length of the alphabet.
 
 # Use
 Just run the programs using python, and the input statements that show up should be self explanatory.
